@@ -1,0 +1,6 @@
+Mini robo circuit connections
+
+ardiuno UNO
+L298N MOTOR Driver
+4 DC Motors
+4V Battery Pack
